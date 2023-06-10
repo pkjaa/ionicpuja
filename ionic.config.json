@@ -1,0 +1,7 @@
+{
+  "name": "directdata",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
